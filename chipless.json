@@ -1,0 +1,14 @@
+{
+	"id": "chipless",
+	"name": "Chipless", 
+	"author": ["Superb Thing"], 
+	"description": "removes chips. that's literally it. i'm serious.",
+	"prefix": "chip",
+	"main_file": "main.lua",
+	"priority": 0, 
+	"badge_colour": "fd5f55",
+	"version": "0.0.0", 
+	"dependencies": [
+        
+	] 
+}
